@@ -1,4 +1,4 @@
 // second.js
 function mySecondFunction () {
-	return 'second';
+	return 'second function';
 }

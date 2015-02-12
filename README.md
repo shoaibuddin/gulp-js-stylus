@@ -15,7 +15,7 @@ $ npm install -g gulp
 Once the dependencies have been installed, enter the following in the terminal:
 ```bash
 $ git clone git@github.com:shoaibuddin/gulp-js-stylus.git
-$ cd tutorial-gulp-the-basics
+$ cd gulp-js-stylus
 $ npm install
 ```
 
