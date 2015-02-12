@@ -1,0 +1,11 @@
+body {
+  width: 100%;
+  height: 10%;
+  color: #ddd;
+}
+div {
+  background: #555;
+}
+div:hover {
+  background: #000;
+}
