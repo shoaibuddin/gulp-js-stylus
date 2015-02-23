@@ -25,3 +25,6 @@ Enter the following in the terminal:
 ```bash
 $ gulp watch
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shoaibuddin/gulp-js-stylus/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
